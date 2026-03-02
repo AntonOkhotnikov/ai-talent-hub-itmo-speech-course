@@ -1,4 +1,4 @@
-## Assignment 1. Digital Signal Processing - [30 pts]
+## Assignment 1. Digital Signal Processing - [20 pts]
 
 Implement a PyTorch layer (inherit a class from `torch.nn.Module`) for extraction of **logarithms of Mel-scale Filterbank energies** using basic `torch` math operations such as multiplication, power and so on. **[10 pts]**
 
@@ -37,14 +37,14 @@ Implement a PyTorch layer (inherit a class from `torch.nn.Module`) for extractio
 
 ---
 
-Train a simple CNN model (no more than 100K parameters) with `LogMelFilterBanks` features for a binary classification problem with [**PyTorch**](https://pytorch.org/) on [Google Speech Commands](https://arxiv.org/abs/1804.03209) data. **[20 pts]**
+Train a simple CNN model (no more than 100K parameters) with `LogMelFilterBanks` features for a binary classification problem with [**PyTorch**](https://pytorch.org/) on [Google Speech Commands](https://arxiv.org/abs/1804.03209) data. **[10 pts]**
 
 
 2. Set-up training pipeline:
     - Use `from torchaudio.datasets import SPEECHCOMMANDS` dataset
     - Convert multi-classification problem into a **binary classification** problem by utilization of two `**"YES"**` and `**"NO"**` target classes only
     - Use provided by default training/validation/testing splits of data
-    - Define a custom model architecture (based on [`torch.nn.Conv1d`](https://pytorch.org/docs/stable/generated/torch.nn.Conv1d.html))
+    - Define a simple custom model architecture (based on [`torch.nn.Conv1d`](https://pytorch.org/docs/stable/generated/torch.nn.Conv1d.html)) **up to ~100K parameters**
     - You can use [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/) in this exercise
     - Track (log) **train loss**, **validation accuracy** and **epoch training time** (no matter what batch size is used)
     - Implement model testing on the testing subset with [accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall) as a metric

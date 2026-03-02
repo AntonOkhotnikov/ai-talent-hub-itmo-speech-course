@@ -1,15 +1,16 @@
 # Speech Recognition and Generation course for ITMO AI Talent Hub
 
-- Course materials are available in English in this repo
+- Course materials are available in English in this repo and corresponding references such as slides and videos
 - All the lectures are given in Russian
 
 
 ## Course structure
 
+[Course general orgnizational info](https://docs.google.com/presentation/d/1Pb9s71lIH1JXd1j7W63CNU-SGaep8WXf8_oWJThsNUA/edit?usp=drive_link)
 - [10+ lectures](lectures/README.md)
-- [2 personal assignments](assignments/README.md) [50 pts]
-- [2 group projects](group-projects/README.md) [50 pts]
-- 1 research seminar [10 pts]
+- [2 personal assignments](assignments/README.md) [40 pts]
+- [2 group projects](group-projects/README.md) [60 pts]
+- [1 research seminar](seminar/README.md) [10 pts]
 
 All courseworks deadlines are provided within their corresponding descriptions
 

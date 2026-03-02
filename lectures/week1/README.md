@@ -1,7 +1,7 @@
 ## Digital Signal Processing
 
 - Lecture video (RU): [link](https://youtu.be/GCfOOrHE1g8?si=I4qOGjGR2MR4iqCD)
-- Slides: [link](https://docs.google.com/presentation/d/1Bs-Y6Taz3MqKf_vWpF-algNpsQpwJJrlumyW-WwhnAQ/edit?usp=sharing)
+- Slides: [link](https://docs.google.com/presentation/d/1f8Y8JXyy8asCPrFXisSeE1BM55sJFSx1ni2ZSixQNRo/edit?usp=sharing)
 - Corresponding assignment: [assignment1](../../assignments/assignment1/README.md)
 
 

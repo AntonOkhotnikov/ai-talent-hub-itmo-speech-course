@@ -1,5 +1,5 @@
 
-## Group Project 2. Neural Vocoder Training - [20 pts]
+## Group Project 2. Neural Vocoder Training - [30 pts]
 
 In this exercise you will be training neural vocoder to synthesize utterance in english language. In particular, you are given a pre-trained single-voice TTS system [FastPitch](https://arxiv.org/pdf/2006.06873) that outputs mel spectrogram given an input text, and you need to train GAN-based architecture to convert spectrogram to a waveform.
 
