@@ -24,13 +24,13 @@ slight modifications during the course.
 2. [Classic ASR and metrics](lectures/week2)
 3. [End-to-End ASR with CTC and audio augmentations](lectures/week3/README.md)
 4. Encoder-Decoder End-to-End ASR and decoding with LM
-5. Self-supervised speech representations
-6. SSL-finetuned ASR and Whisper
-7. Text-to-Speech systems
-8. Neural vocoders
-9. Modern TTS with normalizing flows and diffusion
-10. Neural Codec Language Models: VALL-E
-11. Extra: Speaker recognition and speech inpainting
+5. Self-supervised speech representations and SSL-finetuned ASR
+6. Large-Scale Weak Supervision: Whisper
+7. Neural Codec Language Models
+8. Text-to-Speech systems
+9. Neural vocoders
+10. TTS with normalizing flows and diffusion
+11. Extra: Metric learning and speaker recognition
 
 
 ## Resources
