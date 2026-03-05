@@ -1,7 +1,7 @@
 ## Classic ASR and metrics
 
 - Lecture video (RU): [link](https://youtu.be/G3LG74VWJ_A?si=Pj9sjS2MMjHGUc2T)
-- Slides: [link](https://docs.google.com/presentation/d/1t7ot6o8Fpy4GP19fhWsSdia81X3mmXzR_VYJdI-iGzU/edit?usp=sharing)
+- Slides: [link](https://docs.google.com/presentation/d/1Ka0Iyf_VBGxi2I-QcKdZBaBt4-QuUdv4QMuD138MiBw/edit?usp=drive_link)
 
 
 ## Resources
