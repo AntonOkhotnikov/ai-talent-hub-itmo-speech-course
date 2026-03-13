@@ -1,7 +1,7 @@
 ## End-to-End ASR with CTC and audio augmentations
 
 - Lecture video (RU): [link](https://youtu.be/sZMaPho53mE?si=q4dJaNtYhrVdNnKY)
-- Slides: [link](https://docs.google.com/presentation/d/1eyobCGaPLuLl2pKBZm3QLcF77Y27CyznUXnnwB1Ne8s/edit?usp=sharing)
+- Slides: [link](https://docs.google.com/presentation/d/1VRp_oaqsr3wWhYoysY2duJTRvCwf3oiwlDd-HxUCJvI/edit?usp=sharing)
 
 
 ## Resources
