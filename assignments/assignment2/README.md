@@ -61,7 +61,7 @@ Evaluate on `data/librispeech_test_other/` and report CER & WER. Reference value
 
 Evaluate on `data/librispeech_test_other/` and report CER & WER. Reference values: **WER ≈ 9.9%, CER ≈ 3.4%**
 
-Vary `beam_width` (e.g. 1, 3, 10, 50) and observe quality vs. compute trade-off.
+Vary `beam_width` (e.g. 1, 3, 10, 50) and observe quality vs. compute trade-off, add corresponding graph/table to report.
 
 ---
 
@@ -77,7 +77,7 @@ Make sure your decoders use `log_probs` (not raw logits) computed this way.
 
 Run a sweep over `T ∈ {0.5, 0.8, 1.0, 1.2, 1.5, 2.0}` on `data/librispeech_test_other/` using **greedy decoding only** and observe how WER changes.
 
-Explain in your report what effect does temperature have on greedy decoding? *(Hint: temperature is a monotone scaling — it doesn't change `argmax`.)*
+Explain in your report what effect does temperature have on greedy decoding?
 
 > The interaction between temperature and LM fusion is studied in Task 7 on out-of-domain data, where the effect is much more pronounced.
 
@@ -133,12 +133,12 @@ Present a comparison table across all 4 decoding methods on both test sets:
 
 | Method | LibriSpeech WER | LibriSpeech CER | Earnings22 WER | Earnings22 CER |
 |---|---|---|---|---|
-| Greedy | ≈10.4% | ≈3.5% | ≈56.5% | ≈28.4% |
-| Beam search | ≈9.9% | ≈3.4% | — | — |
-| Beam + 3-gram (shallow fusion) | ≈9.7% | ≈3.4% | — | — |
-| Beam + 3-gram (rescoring) | ≈9.6% | ≈3.3% | — | — |
+| Greedy | - | - | - | - |
+| Beam search | - | - | — | — |
+| Beam + 3-gram (shallow fusion) | - | - | — | — |
+| Beam + 3-gram (rescoring) | - | - | — | — |
 
-*(Reference Earnings22 greedy WER ≈ 56.5%. Fill in beam/LM values from your experiments.)*
+*(Fill in all values from your experiments.)*
 
 Discuss the gap between in-domain and out-of-domain performance. Why does the LibriSpeech LM provide almost no benefit on financial speech?
 
