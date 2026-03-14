@@ -12,7 +12,7 @@ Please find detailed description of corresponding tasks using the links above.
 
 Generic deadlines are as follows:
 - `Assignment1`:   11.03.26  23:59 AoE
-- `Assignment2`:   20.03.26  23:59 AoE
+- `Assignment2`:   23.03.26  23:59 AoE
 
 Late submissions are accepted with the following decay rate:
 ```
