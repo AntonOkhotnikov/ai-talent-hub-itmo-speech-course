@@ -23,7 +23,7 @@ slight modifications during the course.
 1. [Basics of Digital Signal Processing](lectures/week1)
 2. [Classic ASR and metrics](lectures/week2)
 3. [End-to-End ASR with CTC and audio augmentations](lectures/week3/README.md)
-4. Encoder-Decoder End-to-End ASR and decoding with LM
+4. [Encoder-Decoder End-to-End ASR and decoding with LM](lectures/week4/README.md)
 5. Self-supervised speech representations and SSL-finetuned ASR
 6. Large-Scale Weak Supervision: Whisper
 7. Neural Codec Language Models
