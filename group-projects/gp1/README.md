@@ -21,7 +21,7 @@ Overall there are 3 data splits of 14 unique `spk_id` from **spk_A** to **spk_N*
     - 12,553 samples from 6 `spk_id` 
 - `dev/`: [**download link**](https://drive.google.com/file/d/1Jlw09RSJjhJTxdN3VQj5Bph4zRNwOqSL/view?usp=sharing)
     - 2,265 samples from 10 `spk_id`
-- `test/`: not available for local development: [Kaggle challenge evaluation page](https://www.kaggle.com/competitions/asr-numbers-recognition-in-russian). Challenge invitation you'll receive via Google Classroom assignment
+- `test/`: not available for local development: [Kaggle challenge evaluation page](https://www.kaggle.com/competitions/asr-2026-spoken-numbers-recognition-challenge/overview). Challenge invitation you'll receive via Google Classroom assignment
     - 2,265 samples from all 14 `spk_id`
 
 > NOTE: `dev/` data CAN NOT be used for trainig, but for validation purposes only
@@ -64,7 +64,7 @@ Please keep in mind that samplerate and file extension are not constant across a
 
 ### Evaluation
 
-- Evaluation of models is held on the [Kaggle platform](https://www.kaggle.com/competitions/asr-numbers-recognition-in-russian). Note that this is used for evaluation only, training of model can be performed in an offline fashion with the available hardware. Though you can still stick to the in-Kaggle training with data available on the competition page (duplicated)
+- Evaluation of models is held on the [Kaggle platform](https://www.kaggle.com/competitions/asr-2026-spoken-numbers-recognition-challenge/overview). Note that this is used for evaluation only, training of model can be performed in an offline fashion with the available hardware. Though you can still stick to the in-Kaggle training with data available on the competition page (duplicated)
 
 - The model performance will be evaluated on the holdout testing set, containing extra out-of-domain test speakers `spk_id`
 
@@ -83,6 +83,6 @@ Please keep in mind that samplerate and file extension are not constant across a
 
 ### Resources
 
-- [Kaggle copmetition submission page](https://www.kaggle.com/competitions/asr-numbers-recognition-in-russian)
+- [Kaggle copmetition submission page](https://www.kaggle.com/competitions/asr-2026-spoken-numbers-recognition-challenge/overview)
 - For text normalization and denormalization you can use [NeMo toolkit](https://github.com/NVIDIA/NeMo-text-processing/blob/main/tutorials/Text_(Inverse)_Normalization.ipynb) or [num2words](https://pypi.org/project/num2words/) library
 - Making models smaller and more efficient with [different types of convolutions](https://animatedai.github.io/)

@@ -11,7 +11,7 @@ There are two group projects in this course:
 Please find detailed description of corresponding tasks using the links above.
 
 Generic deadlines are as follows:
-- `GroupProject1`: 20.04.26  23:59 AoE
+- `GroupProject1`: 25.04.26  23:59 AoE
 - `GroupProject2`: 20.05.26  23:59 AoE
 
 Late submissions are accepted with the following decay rate:
