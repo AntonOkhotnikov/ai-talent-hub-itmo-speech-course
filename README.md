@@ -25,12 +25,11 @@ slight modifications during the course.
 3. [End-to-End ASR with CTC and audio augmentations](lectures/week3/README.md)
 4. [Encoder-Decoder End-to-End ASR and decoding with LM](lectures/week4/README.md)
 5. [Self-supervised speech representations and SSL-finetuned ASR](lectures/week5/README.md)
-6. Large-Scale Weak Supervision: Whisper
-7. Neural Codec Language Models
-8. Text-to-Speech systems
-9. Neural vocoders
-10. TTS with normalizing flows and diffusion
-11. Extra: Metric learning and speaker recognition
+6. [Generative Audio SSL: Neural Codecs and Discrete Tokenization](lectures/week6/README.md)
+7. Large-Scale Weak Supervision: Whisper
+8. Text-to-Speech systems and neural vocoders
+9. TTS with normalizing flows and diffusion
+10. Metric learning and speaker recognition
 
 
 ## Resources
